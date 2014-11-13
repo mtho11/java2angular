@@ -1,17 +1,19 @@
 # java2angular
 
-#### From Java To Angular (learning resources)
+#### From Java(GWT) To Angular (learning resources)
 
 
 Perhaps the hardest part when first starting Angular development (especially when coming from something like java) is new toolsets and ecosystem. Everything is foreign. Fortunately, all the tools are quite easy to use. Certainly, easier to learn than the java ecosystem if you had to start learning java. 
 These tools include:
 * WebIDE or Editor (need the proper plugins to make these tools useful)
-* Grunt (ant-like build tool)
+* Grunt (ant-like build tool) or Gulp - Only concerned with build tasks no version/dependency mgmt)
 * bower (maven-like package management with dependency management)
-* karma (unit test)
+* karma (unit test) - the karma unit test run a magnitude faster than GWT unit tests.
 * Protractor (integration test)
 * [Optional] ES6 or Typescript transpiler to give java devs a more familiar syntax with classes/modules and optional type safety (with Typescript). With these tools you can come close to the GWT environment in terms of type safety but still get the agility of javascript tools).
 * [Optional] little bit of node.js and npm (as many of the above cli tools use it)
+
+IMO, the breakout of build lifecycle seperate from the verioning/dependency mgmt makes for a much more robust build system than maven that combines the two.
 
 And these supporting technologies that the tools use or enable:
 * Angular.js (of course)
