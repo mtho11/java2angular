@@ -1,5 +1,5 @@
-# java2angular 
-============
+# java2angular
+
 #### From Java To Angular (learning resources)
 
 
@@ -10,7 +10,8 @@ These tools include:
 * bower (maven-like package management with dependency management)
 * karma (unit test)
 * Protractor (integration test)
-* little bit of node.js and npm (as many of the above cli tools use it)
+* [Optional] ES6 or Typescript transpiler to give java devs a more familiar syntax with classes/modules and optional type safety (with Typescript). With these tools you can come close to the GWT environment in terms of type safety but still get the agility of javascript tools).
+* [Optional] little bit of node.js and npm (as many of the above cli tools use it)
 
 And these supporting technologies that the tools use or enable:
 * Angular.js (of course)
