@@ -1,6 +1,6 @@
-java2angular 
+# java2angular 
 ============
-From Java To Angular (learning resources)
+#### From Java To Angular (learning resources)
 
 
 Perhaps the hardest part when first starting Angular development (especially when coming from something like java) is new toolsets and ecosystem. Everything is foreign. Fortunately, all the tools are quite easy to use. Certainly, easier to learn than the java ecosystem if you had to start learning java. 
