@@ -3,7 +3,8 @@
 #### From Java(GWT) To Angular (learning resources)
 
 
-Perhaps the hardest part when first starting Angular development (especially when coming from something like java) is new toolsets and ecosystem. Everything is foreign. Fortunately, all the tools are quite easy to use. Certainly, easier to learn than the java ecosystem if you had to start learning java. 
+Perhaps the hardest part when first starting Angular development (especially when coming from something like java) is new toolsets and ecosystem. Everything is foreign. Fortunately, all the tools are quite easy to use. Certainly, easier to learn than the java ecosystem if you had to start learning java. However, in addition to learning javascript and Angular js there is the new toolchain (which is rapidly changing).
+
 These tools include:
 * WebIDE or Editor (need the proper plugins to make these tools useful)
 * Grunt (ant-like build tool) or Gulp - Only concerned with build tasks no version/dependency mgmt)
@@ -31,9 +32,10 @@ The best way to start with an overview of Angular is [Angular in 20ish minutes](
 
 Here is a list of Angular Learning Resources (one good thing about Angular is that there are a bazillion resources):
 * [Curated List of Egghead.io lessons from Thinkster.io](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)
-* [Introduction to Angular in 50 Examples](https://www.youtube.com/watch?v=TRrL5j3MIvo)
 * [Shaping up with Angular JS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+* [Introduction to Angular in 50 Examples](https://www.youtube.com/watch?v=TRrL5j3MIvo)
 * [Using Yeoman: a rails-like generator for Angular](http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
+* [Angular in Patterns](https://github.com/mgechev/angularjs-in-patterns)
 
 #### Editors
 To start out we need an editor or IDE to make it easy to navigate your project and provide code completions to an environment we have not committed to memory yet...
