@@ -28,10 +28,12 @@ _Don't be scared you can learn this in pieces!_
 Angular is quite straight forward to learn if you have had to use MVC frameworks before. The two-way binding practically eliminates any management of models and views. The controllers provide the functionality to the view separating the controller logic from the view. This makes the view (the DOM) a declarative clean view without any javascript handlers gumming up the view. And this makes testing easier to as we can just test the controller.
 
 The best way to start with an overview of Angular is [Angular in 20ish minutes](https://www.youtube.com/watch?v=tnXO-i7944M). After that, time spent on the excellent [Egghead.io Videos](https://egghead.io/technologies/angularjs?order=ASC) is well worth it. The Egghead series is a short and concise series of videos lasting only a few minutes focusing on just a single topic (and most have the source code as well).
-Here is a list of Angular Learning Resources:
+
+Here is a list of Angular Learning Resources (one good thing about Angular is that there are a bazillion resources):
 * [Curated List of Egghead.io lessons from Thinkster.io](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)
 * [Introduction to Angular in 50 Examples](https://www.youtube.com/watch?v=TRrL5j3MIvo)
 * [Shaping up with Angular JS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+* [Using Yeoman: a rails-like generator for Angular](http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
 
 #### Editors
 To start out we need an editor or IDE to make it easy to navigate your project and provide code completions to an environment we have not committed to memory yet...
