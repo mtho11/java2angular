@@ -2,19 +2,18 @@
 
 #### From Java(GWT) To Angular (learning resources)
 
-
 Perhaps the hardest part when first starting Angular development (especially when coming from something like java) is new toolsets and ecosystem. Everything is foreign. Fortunately, all the tools are quite easy to use. Certainly, easier to learn than the java ecosystem if you had to start learning java. However, in addition to learning javascript and Angular js there is the new toolchain (which is rapidly changing).
 
 These tools include:
 * WebIDE or Editor (need the proper plugins to make these tools useful)
-* Grunt (ant-like build tool) or Gulp - Only concerned with build tasks no version/dependency mgmt)
-* bower (maven-like package management with dependency management)
-* karma (unit test) - the karma unit test run a magnitude faster than GWT unit tests.
-* Protractor (integration test)
+* [Grunt](http://gruntjs.com/) (ant-like build tool) or [Gulp](http://gulpjs.com/) - Only concerned with build tasks no version/dependency mgmt)
+* [bower](http://bower.io/) (maven-like package management with dependency management)
+* [karma](http://karma-runner.github.io/0.12/index.html) (unit test) - the karma unit test run a magnitude faster than GWT unit tests.
+* [Protractor](http://angular.github.io/protractor/#/) (integration test)
 * [Optional] ES6 or Typescript transpiler to give java devs a more familiar syntax with classes/modules and optional type safety (with Typescript). With these tools you can come close to the GWT environment in terms of type safety but still get the agility of javascript tools).
 * [Optional] little bit of node.js and npm (as many of the above cli tools use it)
 
-IMO, the breakout of build lifecycle seperate from the verioning/dependency mgmt makes for a much more robust build system than maven that combines the two.
+IMO, the breakout of build lifecycle([grunt](http://gruntjs.com/)) seperate from the verioning/dependency mgmt([bower](http://bower.io/)) makes for a much more robust build system than maven that combines the two.
 
 And these supporting technologies that the tools use or enable:
 * Angular.js (of course)
@@ -28,14 +27,16 @@ _Don't be scared you can learn this in pieces!_
 
 Angular is quite straight forward to learn if you have had to use MVC frameworks before. The two-way binding practically eliminates any management of models and views. The controllers provide the functionality to the view separating the controller logic from the view. This makes the view (the DOM) a declarative clean view without any javascript handlers gumming up the view. And this makes testing easier to as we can just test the controller.
 
-The best way to start with an overview of Angular is [Angular in 20ish minutes](https://www.youtube.com/watch?v=tnXO-i7944M). After that, time spent on the excellent [Egghead.io Videos](https://egghead.io/technologies/angularjs?order=ASC) is well worth it. The Egghead series is a short and concise series of videos lasting only a few minutes focusing on just a single topic (and most have the source code as well).
-
 Here is a list of Angular Learning Resources (one good thing about Angular is that there are a bazillion resources):
+* [Angular in 20ish minutes](https://www.youtube.com/watch?v=tnXO-i7944M). Great overview of Angular.
+* [Angular Seed Project](https://github.com/angular/angular-seed) A simple starter project.
 * [Curated List of Egghead.io lessons from Thinkster.io](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)
+* [Egghead.io Videos](https://egghead.io/technologies/angularjs?order=ASC)These short videos cover pretty much everything. Very comprehensive.
 * [Shaping up with Angular JS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
-* [Introduction to Angular in 50 Examples](https://www.youtube.com/watch?v=TRrL5j3MIvo)
-* [Using Yeoman: a rails-like generator for Angular](http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
-* [Angular in Patterns](https://github.com/mgechev/angularjs-in-patterns)
+* [Introduction to Angular in 50 Examples](https://www.youtube.com/watch?v=TRrL5j3MIvo) If you like to see examples of code here are 50 examples of how to do things (there is another 50 examples after that as well)
+* [Using Yeoman: a rails-like generator for Angular](http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/) Setting up your project is half the battle. Yeoman makes this simple as it brings together many tools to create a highly productive tooling environment.
+* [Angular in Patterns](https://github.com/mgechev/angularjs-in-patterns) For those of us who like patterns, here is an angular version.
+* [Factory vs. Service vs. Provider](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/) After you have written your first controller the next question will be this. 
 
 #### Editors
 To start out we need an editor or IDE to make it easy to navigate your project and provide code completions to an environment we have not committed to memory yet...
