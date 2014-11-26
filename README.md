@@ -9,7 +9,7 @@ These tools include:
 * [Grunt](http://gruntjs.com/) (ant-like build tool) or [Gulp](http://gulpjs.com/) - Only concerned with build tasks no version/dependency mgmt)
 * [bower](http://bower.io/) (maven-like package management with dependency management)
 * [karma](http://karma-runner.github.io/0.12/index.html) (unit test) - the karma unit test run a magnitude faster than GWT unit tests.
-* [Protractor](http://angular.github.io/protractor/#/) (integration test)
+* [Protractor](http://angular.github.io/protractor/#/) (integration test) integration testing for angular with the ability to get at the angular specific pieces
 * [Optional] ES6 or Typescript transpiler to give java devs a more familiar syntax with classes/modules and optional type safety (with Typescript). With these tools you can come close to the GWT environment in terms of type safety but still get the agility of javascript tools).
 * [Optional] little bit of node.js and npm (as many of the above cli tools use it)
 
@@ -37,6 +37,8 @@ Here is a list of Angular Learning Resources (one good thing about Angular is th
 * [Using Yeoman: a rails-like generator for Angular](http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/) Setting up your project is half the battle. Yeoman makes this simple as it brings together many tools to create a highly productive tooling environment.
 * [Angular in Patterns](https://github.com/mgechev/angularjs-in-patterns) For those of us who like patterns, here is an angular version.
 * [Factory vs. Service vs. Provider](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/) After you have written your first controller the next question will be this. 
+
+Trying to learn Angular directly from Typescript was difficult for me because there is not many resources on Angular/Typescript and all the many examples for Angular (and there are MANY) are in Javascript. It is hard enough to learn a framework but to add the language translation (and different idioms) makes the task much more difficult. So my advice is to start learning Angular with Javascript until you feel comfortable then switch to using Typescript. The good news is that Typescript will actually feel more natural to Java developers than Javascript. With classes and modules you can think in terms of GoF design patterns like you did with Java instead of foreign [Javacript design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/). The type safety  and modern language syntax (ES6) are really a joy to have back and make it comparable to GWT on that aspect. So we get type safety when we need it (optionally) and syntax that is more concise than java along with frameworks and environments that are agile and on the forefront of UI technology -- for the win.
 
 #### Editors
 To start out we need an editor or IDE to make it easy to navigate your project and provide code completions to an environment we have not committed to memory yet...
