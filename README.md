@@ -2,10 +2,10 @@
 
 #### From Java(GWT) To Angular (learning resources)
 
-Perhaps the hardest part when first starting Angular development (especially when coming from something like java) is new toolsets and ecosystem. Everything is foreign. Fortunately, all the tools are quite easy to use. Certainly, easier to learn than the java ecosystem if you had to start learning java. However, in addition to learning javascript and Angular js there is the new toolchain (which is rapidly changing).
+Perhaps the hardest part when first starting Angular development (especially when coming from something like java) is new toolsets and ecosystem. Everything is foreign. Fortunately, all the tools are quite easy to use along with being lightweight and agile. Certainly, easier to learn than the java ecosystem if you had to start learning java and its ecosystem. However, in addition to learning javascript and Angular js there is the new toolchain (which is rapidly changing).
 
 These tools include:
-* WebIDE or Editor (need the proper plugins to make these tools useful)
+* WebIDE or Editor (need the proper plugins to make these tools useful). __As a javas developer, I had no desire to touch javascript until it had proper IDE support.__
 * [Grunt](http://gruntjs.com/) (ant-like build tool) or [Gulp](http://gulpjs.com/) - Only concerned with build tasks no version/dependency mgmt)
 * [bower](http://bower.io/) (maven-like package management with dependency management)
 * [karma](http://karma-runner.github.io/0.12/index.html) (unit test) - the karma unit test run a magnitude faster than GWT unit tests.
@@ -18,9 +18,9 @@ IMO, the breakout of build lifecycle([grunt](http://gruntjs.com/)) seperate from
 And these supporting technologies that the tools use or enable:
 * Angular.js (of course)
 * CSS, HTML5 (browser debugging, Bootstrap for responsive layouts)
-* Really get to know Chrome Dev Tools (its invaluable)
+* Really get to know [Chrome Dev Tools](https://developer.chrome.com/devtools) (its invaluable)
 * Responsive layouts (optional: depending if you are targeting mobile)
-* RESTful backend integration
+* RESTful backend integration with json
 * Javascript (a whole lot of this) -- too many resources to discuss here
 * Javascript and Angular libs (this is where the real power comes from)
 
