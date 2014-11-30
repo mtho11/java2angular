@@ -1,5 +1,3 @@
-# java2angular
-
 #### From Java(GWT) To Angular (learning resources)
 
 Perhaps the hardest part when first starting Angular development (especially when coming from something like java) is new toolsets and ecosystem. Everything is foreign. Fortunately, all the tools are quite easy to use along with being lightweight and agile. Certainly, easier to learn than the java ecosystem if you had to start learning java and its ecosystem. However, in addition to learning javascript and Angular js there is the new toolchain (which is rapidly changing).
@@ -31,9 +29,9 @@ Angular is quite straight forward to learn if you have had to use MVC frameworks
 Here is a list of Angular Learning Resources (one good thing about Angular is that there are a bazillion resources):
 * [Angular in 20ish minutes](https://www.youtube.com/watch?v=tnXO-i7944M). Great overview of Angular.
 * [Angular Seed Project](https://github.com/angular/angular-seed) A simple starter project.
-* [Curated List of Egghead.io lessons from Thinkster.io](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)
+* [Curated List of Egghead.io lessons from Thinkster.io](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/) Comprehensive way to learn.
 * [Egghead.io Videos](https://egghead.io/technologies/angularjs?order=ASC)These short videos cover pretty much everything. Very comprehensive.
-* [Shaping up with Angular JS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+* [Shaping up with Angular JS](https://www.codeschool.com/courses/shaping-up-with-angular-js) Lots of videos that walk you through concepts along with excercises. Focuses on building a complete Angular application.
 * [Introduction to Angular in 50 Examples](https://www.youtube.com/watch?v=TRrL5j3MIvo) If you like to see examples of code here are 50 examples of how to do things (there is another 50 examples after that as well)
 * [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes) In depth coverage of scopes. Must Read.
 * [Pitfalls using scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes) Scoping issues to watch out for.
