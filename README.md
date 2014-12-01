@@ -40,7 +40,7 @@ Here is a list of Angular Learning Resources (one good thing about Angular is th
 * [AngularJS Forms](http://scotch.io/tutorials/javascript/angularjs-form-validation) AngularJs form validation is one  the hidden gems in Angular that make it quick to create screens.
 * [UI-Router](http://scotch.io/tutorials/javascript/angular-routing-using-ui-router) Better than the standard angular router, ui-router provides additional capability and will replace angular router in Angular 2.0.
 * [Factory vs. Service vs. Provider](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/) After you have written your first controller the next question will be this. 
-* [Controller As and the vm variable](http://www.johnpapa.net/angularjss-controller-as-and-the-vm-variable/)
+* [Controller As and the vm variable](http://www.johnpapa.net/angularjss-controller-as-and-the-vm-variable/) A best practice by John Papa.
 * [Debugging AngularJS in the Console](http://ionicframework.com/blog/angularjs-console/) Some very useful techniques for getting at Angular objects in the browser Console.
 * [ngModules](http://ngmodules.org/) Looking for a specific angular library to do something. Look no further.
 
