@@ -3,8 +3,8 @@
 Perhaps the hardest part when first starting Angular development (especially when coming from something like java) is new toolsets and ecosystem. Everything is foreign. Fortunately, all the tools are quite easy to use along with being lightweight and agile. Certainly, easier to learn than the java ecosystem if you had to start learning java and its ecosystem. However, in addition to learning javascript and Angular js there is the new toolchain (which is rapidly changing).
 
 These tools include:
-* WebIDE or Editor (need the proper plugins to make these tools useful). __As a javas developer, I had no desire to touch javascript until it had proper IDE support.__
-* [Grunt](http://gruntjs.com/) (ant-like build tool) or [Gulp](http://gulpjs.com/) - Only concerned with build tasks no version/dependency mgmt)
+* WebIDE or Editor (need the proper plugins to make these tools useful). _As a java developer, I had no desire to touch javascript until it had proper IDE support._
+* [Grunt](http://gruntjs.com/) (ant-like build tool) or [Gulp](http://gulpjs.com/) - Only concerned with build tasks no version/dependency mgmt). Grunt is currently more popular, but Gulp has a better streams based architecture.
 * [bower](http://bower.io/) (maven-like package management with dependency management)
 * [karma](http://karma-runner.github.io/0.12/index.html) (unit test) - the karma unit test run a magnitude faster than GWT unit tests.
 * [Protractor](http://angular.github.io/protractor/#/) (integration test) integration testing for angular with the ability to get at the angular specific pieces
