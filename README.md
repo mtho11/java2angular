@@ -37,6 +37,8 @@ Here is a list of Angular Learning Resources (one good thing about Angular is th
 * [Pitfalls using scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes) Scoping issues to watch out for.
 * [Using Yeoman: a rails-like generator for Angular](http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/) Setting up your project is half the battle. Yeoman makes this simple as it brings together many tools to create a highly productive tooling environment.
 * [Angular in Patterns](https://github.com/mgechev/angularjs-in-patterns) For those of us who like patterns, here is an angular version.
+* [AngularJS Forms](http://scotch.io/tutorials/javascript/angularjs-form-validation) AngularJs form validation is one  the hidden gems in Angular that make it quick to create screens.
+* [UI-Router](http://scotch.io/tutorials/javascript/angular-routing-using-ui-router) Better than the standard angular router, ui-router provides additional capability and will replace angular router in Angular 2.0.
 * [Factory vs. Service vs. Provider](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/) After you have written your first controller the next question will be this. 
 * [Controller As and the vm variable](http://www.johnpapa.net/angularjss-controller-as-and-the-vm-variable/)
 * [Debugging AngularJS in the Console](http://ionicframework.com/blog/angularjs-console/) Some very useful techniques for getting at Angular objects in the browser Console.
