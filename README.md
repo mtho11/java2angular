@@ -32,6 +32,7 @@ Here is a list of Angular Learning Resources (one good thing about Angular is th
 * [Curated List of Egghead.io lessons from Thinkster.io](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/) Comprehensive way to learn.
 * [Egghead.io Videos](https://egghead.io/technologies/angularjs?order=ASC)These short videos cover pretty much everything. Very comprehensive.
 * [Shaping up with Angular JS](https://www.codeschool.com/courses/shaping-up-with-angular-js) Lots of videos that walk you through concepts along with excercises. Focuses on building a complete Angular application.
+* [Learn Angular by Building a Gmail Clone](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Cloaking#Getting-Started-with-AngularJS) A surprisingly complete tutorial creating a Gmail clone.
 * [Introduction to Angular in 50 Examples](https://www.youtube.com/watch?v=TRrL5j3MIvo) If you like to see examples of code here are 50 examples of how to do things (there is another 50 examples after that as well)
 * [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes) In depth coverage of scopes. Must Read.
 * [Pitfalls using scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes) Scoping issues to watch out for.
@@ -42,7 +43,6 @@ Here is a list of Angular Learning Resources (one good thing about Angular is th
 * [Factory vs. Service vs. Provider](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/) After you have written your first controller the next question will be this. 
 * [Controller As and the vm variable](http://www.johnpapa.net/angularjss-controller-as-and-the-vm-variable/) A best practice by John Papa.
 * [Debugging AngularJS in the Console](http://ionicframework.com/blog/angularjs-console/) Some very useful techniques for getting at Angular objects in the browser Console.
-* [ngModules](http://ngmodules.org/) Looking for a specific angular library to do something. Look no further.
 * [Typescript Video](https://www.youtube.com/watch?v=Ut694dsIa8w) A GoogleTechTalk featuring Microsoft's Anders Hejlsberg -- FTW?
 * [Typescript and Angular](https://www.youtube.com/watch?v=u6TeBM_SC8w) 20min video on using Typescript with Angular from NGCONF 2014.
 
